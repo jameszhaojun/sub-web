@@ -267,7 +267,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "sub.james2020.xyz (自动编译最新版本后端-测试）": "https://sub.james2020.xyz/sub?",
+          "sub.james2020.xyz (james自用地址）": "https://sub.james2020.xyz/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
